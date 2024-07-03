@@ -7,10 +7,10 @@
   <div class="examples">
     <div class="img">
       <div class="w1">
-        <img src="/img/w1.png" alt="W1" width="250" height="220">
+        <img src="../dist/img/w1.png" alt="W1" width="250" height="220">
       </div>
       <div class="w2">
-        <img src="/img/w2.png" alt="W2" width="290" height="220">
+        <img src="../dist/img/w2.png" alt="W2" width="290" height="220">
       </div>
     </div>
   </div>
