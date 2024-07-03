@@ -5,11 +5,11 @@
   import ProjectList from './components/ProjectList.svelte';
   import ComicFetcher from './components/ComicFetcher.svelte';
   import './global.css';
-
+  
   const headerLinks = [
-    { href: "https://t.me/yapii7", icon: "../dist/img/Telegram_i.png" },
-    { href: "https://github.com/yasmin964?tab=repositories", icon: "../dist/img/GitHub.png" },
-    { href: "mailto:kalgexavva1970@icloud.com", icon: "../dist/img/email.png" }
+    { href: "https://t.me/yapii7", icon: "../add/img/Telegram_i.png" },
+    { href: "https://github.com/yasmin964?tab=repositories", icon: "../add/img/GitHub.png" },
+    { href: "mailto:kalgexavva1970@icloud.com", icon: "../add/img/email.png" }
   ];
 
   const headerContent = [
