@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: rgb(241, 228, 230);
+    font-family: "Roboto", sans-serif;
+  }
+  a {
+    text-decoration: none;
+  }
+  .ex {
+    padding-left: 220px;
+    padding-top: 70px;
+    font-weight: 400;
+    font-size: 17px;
+  }
+  .subtit{
+    
+    padding-top: 120px;
+  }
+  .examples {
+    padding-top: 30px;
+    padding-left: 270px;
+  }
+  .img {
+    display: flex;
+    gap: 30px;
+    align-content: center;
+  }
+  .w1, .w2 {
+    padding-top: 15px;
+  }
+  .subtitle2 {
+    padding-left: 220px;
+    padding-top: 40px;
+    font-size: 17px;
+  }
+  .subpar2 {
+    padding-left: 440px;
+    padding-right: 42px;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 40px;
+    width: 700px;
+    padding-bottom: 50px;
+  }
+  .li_title {
+    font-weight: bold;
+  }
+  .subtitle1 {
+    padding-top: 60px;
+    padding-left: 220px;
+    font-weight: 400;
+    font-size: 17px;
+  }
+  .subpar1 {
+    float: left;
+    padding-left: 440px;
+    padding-top: 17px;
+    width: 700px;
+    font-size: 17px;
+    font-weight: 400;
+  }
+  .comic {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: rgb(34, 34, 34);
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    background-color: darkgray;
+    
+    width: 100%;
+    border: dotted grey 2px;
+    margin-top: 100px;
+    padding: 82px;
+  }
+
+  .comic__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .comic__name {
+    flex: 1;
+  }
+  .comic__placeholders{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  .comic__button {
+    flex: 1;
+    text-align: right;
+  }
+
+  #safe_title {
+    padding-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  #comic-date {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  #comic-container {
+    display: block;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    background: rgb(34, 34, 34);
+    color: white;
+    width: 120%;
+  }
+  .s_text {
+    display: flex;
+    gap: 15px;
+    padding-top: 15px;
+  }
+  .header__content {
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    justify-content: center;
+    font-size: 15px;
+  }
