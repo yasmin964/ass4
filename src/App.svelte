@@ -7,9 +7,9 @@
   import './global.css';
 
   const headerLinks = [
-    { href: "https://t.me/yapii7", icon: "/img/Telegram_i.png" },
-    { href: "https://github.com/yasmin964?tab=repositories", icon: "/img/GitHub.png" },
-    { href: "mailto:kalgexavva1970@icloud.com", icon: "/img/email.png" }
+    { href: "https://t.me/yapii7", icon: "../dist/img/Telegram_i.png" },
+    { href: "https://github.com/yasmin964?tab=repositories", icon: "../dist/img/GitHub.png" },
+    { href: "mailto:kalgexavva1970@icloud.com", icon: "../dist/img/email.png" }
   ];
 
   const headerContent = [
